@@ -44,7 +44,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions\&logoColor=white)
 
 ---
@@ -129,19 +128,7 @@ jobs:
 Y coloca la imagen en tu README donde quieras:
 
 ```md
-![Metrics](https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Monsalve-11/TU_USUARIO/main/github-metrics.svg)
 ```
 
 ---
-
-## 🛠️ Cómo usar este README
-
-1. Crea un repositorio **público** llamado exactamente **TU\_USUARIO** (igual a tu nombre de usuario).
-2. Dentro, crea un archivo `README.md` y pega este contenido.
-3. Reemplaza `TU_USUARIO`, `TU_NOMBRE` y los enlaces.
-4. (Opcional) Crea las **GitHub Actions** anteriores para que se actualice solo.
-5. En tu perfil, **pinnea** tus repos favoritos (**Profile → Customize your pins**).
-
----
-
-> ¿Quieres que lo deje listo con tu usuario y proyectos reales? Dime tu **usuario de GitHub** y los **repos a destacar** y lo personalizo al instante.
