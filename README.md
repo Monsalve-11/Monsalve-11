@@ -128,7 +128,7 @@ jobs:
 Y coloca la imagen en tu README donde quieras:
 
 ```md
-![Metrics](https://raw.githubusercontent.com/Monsalve-11/TU_USUARIO/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Monsalve-11/Monsalve-11/main/github-metrics.svg)
 ```
 
 ---
