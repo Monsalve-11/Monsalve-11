@@ -16,19 +16,19 @@
 
 ### Rendimiento general
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=transparent\&hide_title=false\&include_all_commits=true\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monsalve-11\&show_icons=true\&theme=transparent\&hide_title=false\&include_all_commits=true\&count_private=true)
 
 ### Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&langs_count=8\&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsalve-11\&layout=compact\&langs_count=8\&hide_progress=false)
 
 ### Racha de contribuciones
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO\&theme=default\&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=Monsalve-11\&theme=default\&date_format=j%20M%5B%20Y%5D)
 
 ### Trofeos
 
-![trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO\&margin-w=8\&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Monsalve-11\&margin-w=8\&no-bg=true)
 
 ---
 
@@ -51,7 +51,7 @@
 
 ## 🚀 Proyectos destacados
 
-<a href="https://github.com/TU_USUARIO/PROYECTO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=PROYECTO_1" /></a> <a href="https://github.com/TU_USUARIO/PROYECTO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=PROYECTO_2" /></a>
+<a href="https://github.com/TU_USUARIO/PROYECTO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsalve-11&repo=PROYECTO_1" /></a> <a href="https://github.com/Monsalve-11/PROYECTO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=PROYECTO_2" /></a>
 
 > Ve al repo de cada proyecto y activa **Settings → General → Topics** para etiquetar con `laravel`, `react`, etc. ¡Eso ayuda a entender tu stack!
 
