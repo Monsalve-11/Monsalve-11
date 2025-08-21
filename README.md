@@ -1,18 +1,17 @@
-# ¡Hola! Soy **TU\_NOMBRE** 👋
+# ¡Hola! Soy **JHON MONSALVE** 👋
 
 <!-- reemplaza TU_USUARIO con tu usuario de GitHub -->
 
 ## 🧑‍💻 Sobre mí
 
 * 🎯 Intereses: Backend, IA, Seguridad, DevOps
-* 🛠️ Stack principal: **Laravel · React · Node.js · MySQL · Docker**
+* 🛠️ Stack principal: **Laravel · React · Node.js · MySQL · GitHub**
 * 📫 Contáctame: [LinkedIn](https://www.linkedin.com/in/Monsalve-11) · [Email](mailto:mjhon6811@gmail.com)
 
 ---
 
 ## 📊 Mis estadísticas
 
-> ⚠️ Cambia `Monsalve-11` por tu usuario real de GitHub en las URLs.
 
 ### Rendimiento general
 
