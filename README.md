@@ -16,12 +16,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monsalve-11&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
 </div>
 
-
-### Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsalve-11\&layout=compact\&langs_count=8\&hide_progress=false)
-
-
 ## 🧰 Tecnologías y herramientas
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel\&logoColor=white)
