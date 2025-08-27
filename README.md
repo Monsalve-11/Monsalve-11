@@ -16,11 +16,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsalve-11\&layout=compact\&langs_count=8\&hide_progress=false)
 
-### Trofeos
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Monsalve-11\&margin-w=8\&no-bg=true)
-
----
 
 ## 🧰 Tecnologías y herramientas
 
