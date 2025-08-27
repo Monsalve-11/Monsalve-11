@@ -9,11 +9,7 @@
 
 ---
 
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Monsalve-11/count.svg"/>
-  <br/>
-</div>
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Monsalve-11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monsalve-11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
@@ -39,3 +35,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions\&logoColor=white)
 
 ---
+## Visitor count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Monsalve-11&color=blue)
+
