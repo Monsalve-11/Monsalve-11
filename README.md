@@ -5,7 +5,7 @@
 
 * 🎯 Intereses: Backend, IA, Seguridad, DevOps
 * 🛠️ Stack principal: **Laravel · React · Node.js · MySQL · GitHub**
-* 📫 Contáctame: [LinkedIn](https://www.linkedin.com/in/Monsalve-11) · [Email](mailto:mjhon6811@gmail.com)
+* 📫 Contáctame: [LinkedIn](https://www.linkedin.com/in/jhon-monsalve-96aba21b3/) · [Email](mailto:mjhon6811@gmail.com)
 
 ---
 
