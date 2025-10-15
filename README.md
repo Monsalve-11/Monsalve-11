@@ -8,6 +8,9 @@
 * 📫 Contáctame: [LinkedIn](https://www.linkedin.com/in/jhon-monsalve-96aba21b3/) · [Email](mailto:mjhon6811@gmail.com)
 
 ---
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monsalve-11&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
 
 
 ## 🧰 Tecnologías y herramientas
