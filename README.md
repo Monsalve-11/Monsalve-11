@@ -24,6 +24,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?logo=laravel\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma\&logoColor=white)
 
 ---
 ## Visitor count
