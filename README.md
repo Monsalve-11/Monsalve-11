@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/jhon-monsalve-96aba21b3/"><img src="https://img.shields.io/static/v1?label=&message=&color=0A66C2&style=flat&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=063b73)](https://www.linkedin.com/in/jhon-monsalve-96aba21b3/)
 <a href="mailto:mjhon6811@gmail.com"><img src="https://raw.githubusercontent.com/Monsalve-11/Monsalve-11/main/assets/gmail.png" height="32" alt="Gmail"/></a>
 [![GitHub](https://img.shields.io/badge/GitHub-Monsalve--11-181717?style=flat&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Monsalve-11)
 
@@ -162,7 +162,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jhon-monsalve-96aba21b3/"><img src="https://img.shields.io/static/v1?label=&message=&color=0A66C2&style=flat&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=063b73)](https://www.linkedin.com/in/jhon-monsalve-96aba21b3/)
 <a href="mailto:mjhon6811@gmail.com"><img src="https://raw.githubusercontent.com/Monsalve-11/Monsalve-11/main/assets/gmail.png" height="32" alt="Gmail"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:4FC3F7,100:2c5364&height=3&width=300&animation=twinkling" />
