@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/jhon-monsalve-96aba21b3/"><img src="https://raw.githubusercontent.com/Monsalve-11/Monsalve-11/main/assets/linkedin.png" height="20" alt="LinkedIn"/><img src="https://img.shields.io/badge/-Conectemos-0A66C2?style=flat" height="20" alt="Conectemos"/></a>
 <a href="mailto:mjhon6811@gmail.com"><img src="https://raw.githubusercontent.com/Monsalve-11/Monsalve-11/main/assets/gmail.png" height="20" alt="Gmail"/><img src="https://img.shields.io/badge/-Escr%C3%ADbeme-EA4335?style=flat" height="20" alt="Escríbeme"/></a>
 [![GitHub](https://img.shields.io/badge/-Monsalve--11-181717?style=flat&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Monsalve-11)
+[![Instagram](https://img.shields.io/badge/-monsalve.dev-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=5c1a2e)](https://www.instagram.com/monsalve.dev/)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:4FC3F7,100:2c5364&height=3&width=300&animation=twinkling" />
 
@@ -137,6 +138,7 @@
 
 <a href="https://www.linkedin.com/in/jhon-monsalve-96aba21b3/"><img src="https://raw.githubusercontent.com/Monsalve-11/Monsalve-11/main/assets/linkedin.png" height="20" alt="LinkedIn"/><img src="https://img.shields.io/badge/-Conectemos-0A66C2?style=flat" height="20" alt="Conectemos"/></a>
 <a href="mailto:mjhon6811@gmail.com"><img src="https://raw.githubusercontent.com/Monsalve-11/Monsalve-11/main/assets/gmail.png" height="20" alt="Gmail"/><img src="https://img.shields.io/badge/-Escr%C3%ADbeme-EA4335?style=flat" height="20" alt="Escríbeme"/></a>
+[![Instagram](https://img.shields.io/badge/-monsalve.dev-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=5c1a2e)](https://www.instagram.com/monsalve.dev/)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:4FC3F7,100:2c5364&height=3&width=300&animation=twinkling" />
 
