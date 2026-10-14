@@ -9,9 +9,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-monsalve-96aba21b3/)
-[![Email](https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjhon6811@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Monsalve--11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Monsalve-11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=063b73)](https://www.linkedin.com/in/jhon-monsalve-96aba21b3/)
+[![Email](https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=7a1f14)](mailto:mjhon6811@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Monsalve--11-181717?style=flat&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Monsalve-11)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:4FC3F7,100:2c5364&height=3&width=300&animation=twinkling" />
 
 </div>
 
