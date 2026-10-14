@@ -17,22 +17,22 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 ¡Hola! Soy **Jhon Monsalve**, desarrollador de software enfocado en crear aplicaciones web robustas, seguras y con una buena experiencia de usuario. Me muevo con comodidad entre el **frontend** y el **backend**, y tengo un interés especial en la **seguridad**.
 
 | | |
 |---|---|
-| 🎯 **Áreas de interés** | Frontend · Backend · Seguridad |
-| 🛠️ **Stack principal** | Laravel · Django · React · Node.js · MySQL · Docker · GitHub |
-| 🌱 **Siempre aprendiendo** | Buenas prácticas, arquitectura y seguridad aplicada |
-| 📫 **Contacto** | [LinkedIn](https://www.linkedin.com/in/jhon-monsalve-96aba21b3/) · [mjhon6811@gmail.com](mailto:mjhon6811@gmail.com) |
+|  **Áreas de interés** | Frontend · Backend · Seguridad |
+|  **Stack principal** | Laravel · Django · React · Node.js · MySQL · Docker · GitHub |
+|  **Siempre aprendiendo** | Buenas prácticas, arquitectura y seguridad aplicada |
+|  **Contacto** | [LinkedIn](https://www.linkedin.com/in/jhon-monsalve-96aba21b3/) · [mjhon6811@gmail.com](mailto:mjhon6811@gmail.com) |
 
 ---
 
-## 🧰 Tecnologías y herramientas
+##  Tecnologías y herramientas
 
-### 🎨 Frontend
+###  Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&labelColor=20232A)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=000000)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white&labelColor=35495E)
@@ -44,7 +44,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:4FC3F7,100:2c5364&height=3&animation=twinkling" width="100%"/>
 
-### ⚙️ Backend
+###  Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white&labelColor=5c1310)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white&labelColor=35304f)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=173817)
@@ -54,20 +54,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:4FC3F7,100:2c5364&height=3&animation=twinkling" width="100%"/>
 
-### 🗄️ Bases de datos
+###  Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white&labelColor=002b40)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white&labelColor=1a3a52)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:4FC3F7,100:2c5364&height=3&animation=twinkling" width="100%"/>
 
-### 🚀 DevOps y diseño
+###  DevOps y diseño
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white&labelColor=0d3a66)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=5c1a10)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&labelColor=5c1a0c)
 
 ---
 
-## ☁️ Despliegue e infraestructura
+##  Despliegue e infraestructura
 
 <div align="center">
 
@@ -78,7 +78,7 @@
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <h3>🌐 Hosting compartido</h3>
+      <h3> Hosting compartido</h3>
       <sub><b>Rápido y económico</b></sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel"/><br/>
@@ -86,14 +86,14 @@
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
       <br/><br/>
       <div align="left">
-        ✅ Apps Laravel y PHP<br/>
-        ✅ Dominios, DNS y SSL<br/>
-        ✅ Bases de datos y correos<br/>
-        ✅ Cron jobs y backups
+         Apps Laravel y PHP<br/>
+         Dominios, DNS y SSL<br/>
+         Bases de datos y correos<br/>
+         Cron jobs y backups
       </div>
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>🖥️ Servidores VPS</h3>
+      <h3> Servidores VPS</h3>
       <sub><b>Control total</b></sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/><br/>
@@ -101,14 +101,14 @@
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
       <br/><br/>
       <div align="left">
-        ✅ Laravel, Django y Node.js<br/>
-        ✅ Nginx + HTTPS (Let's Encrypt)<br/>
-        ✅ Firewall y hardening básico<br/>
-        ✅ Gestión de procesos y logs
+         Laravel, Django y Node.js<br/>
+         Nginx + HTTPS (Let's Encrypt)<br/>
+         Firewall y hardening básico<br/>
+         Gestión de procesos y logs
       </div>
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>🐳 Dockerizado</h3>
+      <h3> Dockerizado</h3>
       <sub><b>Portable y reproducible</b></sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
@@ -116,10 +116,10 @@
       <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
       <br/><br/>
       <div align="left">
-        ✅ Imágenes y contenedores propios<br/>
-        ✅ App + BD + proxy con Compose<br/>
-        ✅ Entornos dev/prod idénticos<br/>
-        ✅ Despliegue con GitHub Actions
+         Imágenes y contenedores propios<br/>
+         App + BD + proxy con Compose<br/>
+         Entornos dev/prod idénticos<br/>
+         Despliegue con GitHub Actions
       </div>
     </td>
   </tr>
@@ -127,7 +127,7 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <div align="center">
 
@@ -142,7 +142,7 @@
 
 ---
 
-## 📈 Actividad de contribuciones
+##  Actividad de contribuciones
 
 <div align="center">
   <picture>
