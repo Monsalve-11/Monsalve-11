@@ -83,6 +83,7 @@
       <h3>Hosting compartido</h3>
       <sub>Rápido y económico</sub>
       <br/><br/>
+      <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat&logo=hostinger&logoColor=white" alt="Hostinger"/>
       <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white" alt="cPanel"/>
       <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" alt="Apache"/>
       <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
