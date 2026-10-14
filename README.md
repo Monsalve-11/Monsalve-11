@@ -71,11 +71,7 @@
 
 ##  Despliegue e infraestructura
 
-<div align="center">
-
 **De local a producción: llevo cada proyecto al entorno que mejor se adapta a su necesidad.**
-
-</div>
 
 <table>
   <tr>
