@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jhon%20Monsalve&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Seguridad%20Inform%C3%A1tica&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Laravel+%C2%B7+React+%C2%B7+Node.js;Apasionado+por+la+Seguridad;Construyendo+soluciones+que+escalan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Laravel+%C2%B7+Django+%C2%B7+React+%C2%B7+Node.js;Apasionado+por+la+Seguridad;Construyendo+soluciones+que+escalan" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
 | | |
 |---|---|
 | 🎯 **Áreas de interés** | Frontend · Backend · Seguridad |
-| 🛠️ **Stack principal** | Laravel · React · Node.js · MySQL · GitHub |
+| 🛠️ **Stack principal** | Laravel · Django · React · Node.js · MySQL · Docker · GitHub |
 | 🌱 **Siempre aprendiendo** | Buenas prácticas, arquitectura y seguridad aplicada |
 | 📫 **Contacto** | [LinkedIn](https://www.linkedin.com/in/jhon-monsalve-96aba21b3/) · [mjhon6811@gmail.com](mailto:mjhon6811@gmail.com) |
 
@@ -47,6 +47,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🗄️ Bases de datos
@@ -57,6 +58,18 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## ☁️ Despliegue e infraestructura
+
+Llevo mis proyectos hasta producción en distintos entornos, según las necesidades de cada cliente.
+
+| Entorno | Qué hago | Herramientas |
+|---|---|---|
+| 🌐 **Hosting compartido** | Despliegue de aplicaciones Laravel y PHP, configuración de dominios, bases de datos, SSL y tareas programadas | ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) |
+| 🖥️ **VPS** | Configuración de servidores Linux, servidores web, certificados HTTPS, seguridad básica y despliegue de apps Laravel, Django y Node.js | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| 🐳 **Dockerizado** | Contenedores y orquestación de servicios (app, base de datos, proxy) para entornos reproducibles | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
 ---
 
@@ -78,7 +91,7 @@
 ## 📈 Actividad de contribuciones
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monsalve-11&bg_color=0d1117&color=4FC3F7&line=404db0&point=ffcd42&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://ghchart.rshah.org/4FC3F7/Monsalve-11" alt="Gráfico de contribuciones de Monsalve-11" width="100%"/>
 </div>
 
 ---
@@ -94,7 +107,7 @@
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Monsalve-11&color=4FC3F7&style=flat-square&label=Visitas)
+<img src="https://hits.sh/github.com/Monsalve-11.svg?style=flat-square&label=Visitas&color=4FC3F7" alt="Visitas"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer" width="100%"/>
 
