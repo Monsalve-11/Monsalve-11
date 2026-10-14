@@ -63,13 +63,61 @@
 
 ## ☁️ Despliegue e infraestructura
 
-Llevo mis proyectos hasta producción en distintos entornos, según las necesidades de cada cliente.
+<div align="center">
 
-| Entorno | Qué hago | Herramientas |
-|---|---|---|
-| 🌐 **Hosting compartido** | Despliegue de aplicaciones Laravel y PHP, configuración de dominios, bases de datos, SSL y tareas programadas | ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) |
-| 🖥️ **VPS** | Configuración de servidores Linux, servidores web, certificados HTTPS, seguridad básica y despliegue de apps Laravel, Django y Node.js | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
-| 🐳 **Dockerizado** | Contenedores y orquestación de servicios (app, base de datos, proxy) para entornos reproducibles | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+**De local a producción: llevo cada proyecto al entorno que mejor se adapta a su necesidad.**
+
+</div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>🌐 Hosting compartido</h3>
+      <sub><b>Rápido y económico</b></sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel"/><br/>
+      <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/><br/>
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <br/><br/>
+      <div align="left">
+        ✅ Apps Laravel y PHP<br/>
+        ✅ Dominios, DNS y SSL<br/>
+        ✅ Bases de datos y correos<br/>
+        ✅ Cron jobs y backups
+      </div>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🖥️ Servidores VPS</h3>
+      <sub><b>Control total</b></sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/><br/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/><br/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+      <br/><br/>
+      <div align="left">
+        ✅ Laravel, Django y Node.js<br/>
+        ✅ Nginx + HTTPS (Let's Encrypt)<br/>
+        ✅ Firewall y hardening básico<br/>
+        ✅ Gestión de procesos y logs
+      </div>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🐳 Dockerizado</h3>
+      <sub><b>Portable y reproducible</b></sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
+      <img src="https://img.shields.io/badge/Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/><br/>
+      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+      <br/><br/>
+      <div align="left">
+        ✅ Imágenes y contenedores propios<br/>
+        ✅ App + BD + proxy con Compose<br/>
+        ✅ Entornos dev/prod idénticos<br/>
+        ✅ Despliegue con GitHub Actions
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -91,7 +139,11 @@ Llevo mis proyectos hasta producción en distintos entornos, según las necesida
 ## 📈 Actividad de contribuciones
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/4FC3F7/Monsalve-11" alt="Gráfico de contribuciones de Monsalve-11" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monsalve-11/Monsalve-11/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Monsalve-11/Monsalve-11/output/github-snake.svg" />
+    <img alt="Gráfico de contribuciones de Monsalve-11" src="https://raw.githubusercontent.com/Monsalve-11/Monsalve-11/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
