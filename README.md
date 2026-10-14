@@ -59,6 +59,7 @@
 ###  Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white&labelColor=002b40)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white&labelColor=1a3a52)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=1a4a2e)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:4FC3F7,100:2c5364&height=3&animation=twinkling" width="100%"/>
 
