@@ -23,28 +23,12 @@
 
 ¡Hola! Soy **Jhon Monsalve**, desarrollador de software enfocado en crear aplicaciones web robustas, seguras y con una buena experiencia de usuario. Me muevo con comodidad entre el **frontend** y el **backend**, y tengo un interés especial en la **seguridad**.
 
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>Áreas de interés</h3>
-      Frontend · Backend · Despliegue y servidores · Seguridad
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>Stack principal</h3>
-      Laravel · Django · React · Node.js · MySQL · Docker · GitHub
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>Siempre aprendiendo</h3>
-      Buenas prácticas, arquitectura y seguridad aplicada
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>Contacto</h3>
-      <a href="https://www.linkedin.com/in/jhon-monsalve-96aba21b3/">LinkedIn</a> · <a href="mailto:mjhon6811@gmail.com">mjhon6811@gmail.com</a>
-    </td>
-  </tr>
-</table>
+| Aspecto | Detalle |
+|:--|:--|
+| **Áreas de interés** | Frontend · Backend · Despliegue y servidores · Seguridad |
+| **Stack principal** | Laravel · Django · React · Node.js · MySQL · Docker · GitHub |
+| **Siempre aprendiendo** | Buenas prácticas, arquitectura y seguridad aplicada |
+| **Contacto** | [LinkedIn](https://www.linkedin.com/in/jhon-monsalve-96aba21b3/) · [mjhon6811@gmail.com](mailto:mjhon6811@gmail.com) |
 
 ---
 
