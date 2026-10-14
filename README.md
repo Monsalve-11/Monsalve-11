@@ -79,50 +79,25 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <h3> Hosting compartido</h3>
-      <sub><b>Rápido y económico</b></sub>
+    <td width="50%" valign="top" align="center">
+      <h3>Hosting compartido</h3>
+      <sub>Rápido y económico</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel"/><br/>
-      <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/><br/>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white" alt="cPanel"/>
+      <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" alt="Apache"/>
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
       <br/><br/>
-      <div align="left">
-         Apps Laravel y PHP<br/>
-         Dominios, DNS y SSL<br/>
-         Bases de datos y correos<br/>
-         Cron jobs y backups
-      </div>
+      Laravel · PHP · DNS/SSL · Backups
     </td>
-    <td width="33%" valign="top" align="center">
-      <h3> Servidores VPS</h3>
-      <sub><b>Control total</b></sub>
+    <td width="50%" valign="top" align="center">
+      <h3>Servidores VPS</h3>
+      <sub>Control total</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/><br/>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/><br/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
       <br/><br/>
-      <div align="left">
-         Laravel, Django y Node.js<br/>
-         Nginx + HTTPS (Let's Encrypt)<br/>
-         Firewall y hardening básico<br/>
-         Gestión de procesos y logs
-      </div>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3> Dockerizado</h3>
-      <sub><b>Portable y reproducible</b></sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
-      <img src="https://img.shields.io/badge/Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/><br/>
-      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-      <br/><br/>
-      <div align="left">
-         Imágenes y contenedores propios<br/>
-         App + BD + proxy con Compose<br/>
-         Entornos dev/prod idénticos<br/>
-         Despliegue con GitHub Actions
-      </div>
+      Laravel · Django · Node.js · Nginx + SSL
     </td>
   </tr>
 </table>
